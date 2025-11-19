@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lopes\\Desktop\\Tópicos Avançados\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {}
+    "C:\\Users\\Alunos\\Desktop\\joaoads\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lopes\\Desktop\\Tópicos Avançados\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
+    "C:\\Users\\Alunos\\Desktop\\joaoads\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lopes\\Desktop\\Tópicos Avançados\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\joaoads\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj",
         "projectName": "Feitep.MySql.Models",
-        "projectPath": "C:\\Users\\Lopes\\Desktop\\Tópicos Avançados\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj",
-        "packagesPath": "C:\\Users\\Lopes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lopes\\Desktop\\Tópicos Avançados\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\obj\\",
+        "projectPath": "C:\\Users\\Alunos\\Desktop\\joaoads\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj",
+        "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alunos\\Desktop\\joaoads\\feitep_dotnet_mysql\\Feitep.MySql.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lopes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

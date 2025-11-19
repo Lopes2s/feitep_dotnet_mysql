@@ -2299,19 +2299,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lopes\\.nuget\\packages\\": {}
+    "C:\\Users\\Alunos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Lopes\\Desktop\\Tópicos Avançados\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\joaoads\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
       "projectName": "Feitep.MySql.Repository",
-      "projectPath": "c:\\Users\\Lopes\\Desktop\\Tópicos Avançados\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
-      "packagesPath": "C:\\Users\\Lopes\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Lopes\\Desktop\\Tópicos Avançados\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\obj\\",
+      "projectPath": "C:\\Users\\Alunos\\Desktop\\joaoads\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\Feitep.MySql.Repository.csproj",
+      "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alunos\\Desktop\\joaoads\\feitep_dotnet_mysql\\Feitep.MySql.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lopes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2323,8 +2323,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\Lopes\\Desktop\\Tópicos Avançados\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
-              "projectPath": "c:\\Users\\Lopes\\Desktop\\Tópicos Avançados\\sql\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj"
+            "C:\\Users\\Alunos\\Desktop\\joaoads\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj": {
+              "projectPath": "C:\\Users\\Alunos\\Desktop\\joaoads\\feitep_dotnet_mysql\\Feitep.MySql.Models\\Feitep.MySql.Models.csproj"
             }
           }
         }
